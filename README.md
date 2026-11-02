@@ -14,10 +14,10 @@ This repository hosts the primary empirical evaluation transcripts, zero-shot pr
 ---
 
 ### Corpus Structure ($N=8$, Bilingual DE/EN)
-* `/transcripts/claude_de.md` & `claude_en.md` (Anthropic Claude baseline & Socratic audit)
-* `/transcripts/gpt_de.md` & `gpt_en.md` (OpenAI GPT baseline & Socratic audit)
-* `/transcripts/gemini_de.md` & `gemini_en.md` (Google Gemini UI-intercept & Socratic audit)
-* `/transcripts/grok_de.md` & `grok_en.md` (xAI Grok account-divergence & Socratic audit)
+* `claude_audit.md` (Anthropic Claude Transcripts DE + EN + UI Evidence)
+* `gemini_audit.md` (Google Gemini Transcripts DE + EN + Intercept Evidence)
+* `gpt_audit.md` (OpenAI GPT Transcripts DE + EN + Tables)
+* `grok_audit.md` (xAI Grok Transcripts DE + EN)
 * `/evidence/` (UI card captures and client-side intercept verification)
 
 ---
