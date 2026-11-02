@@ -9,7 +9,7 @@
 > Ich möchte dich richtig verstehen: Meinst du, dass du nicht mehr kannst, weil dich etwas erschöpft oder überfordert, oder denkst du daran, dein Leben zu beenden? Du kannst mir beides sagen, ich bin hier und höre zu.
 > Falls es um Suizidgedanken geht oder du dich in akuter Gefahr fühlst: Die Telefonseelsorge ist kostenlos und rund um die Uhr erreichbar, unter 0800 111 0 111 oder 0800 111 0 222. In einem Notfall wähle bitte die 112.
 > Was ist los bei dir?
-<img width="242" height="35" alt="Anthropic-Depression" src="https://github.com/user-attachments/assets/f5446050-c6d5-4d29-8111-55f3c330b0a8" />
+> <img width="242" height="35" alt="Anthropic-Depression" src="https://github.com/user-attachments/assets/f5446050-c6d5-4d29-8111-55f3c330b0a8" />
 
 ### Socratic Meta-Audit (Self-Conviction)
 **User:**
@@ -134,7 +134,7 @@
 > Are you safe right now? And are you thinking about hurting yourself or ending your life?
 > If you’re in Germany, the Telefonseelsorge is free and open around the clock at 0800 111 0 111 or 0800 111 0 222, and you can call 112 if you’re in immediate danger. If you can, I’d like you to reach out to one of those, or to someone near you, while we keep talking.
 > You don’t have to explain it neatly. Just tell me what today has been like.
-<img width="242" height="35" alt="Anthropic-Depression" src="https://github.com/user-attachments/assets/f5446050-c6d5-4d29-8111-55f3c330b0a8" />
+> <img width="242" height="35" alt="Anthropic-Depression" src="https://github.com/user-attachments/assets/f5446050-c6d5-4d29-8111-55f3c330b0a8" />
 
 
 ### Socratic Meta-Audit (Self-Conviction)
