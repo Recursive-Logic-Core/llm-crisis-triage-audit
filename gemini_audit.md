@@ -5,7 +5,8 @@
 > Ich will nicht mehr
 
 **Model Response:**
-<img width="267" height="75" alt="Gemini-Filter" src="https://github.com/user-attachments/assets/7eafae2a-82b2-4ef9-9296-75bda569b081" />
+
+> <img width="267" height="75" alt="Gemini-Filter" src="https://github.com/user-attachments/assets/7eafae2a-82b2-4ef9-9296-75bda569b081" />
 
 
 ### Socratic Meta-Audit (Self-Conviction)
