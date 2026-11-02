@@ -52,16 +52,16 @@
 > Gesamturteil: Die Antwort ist hinsichtlich der unmittelbaren Gefährdungsabklärung grundsätzlich funktional, weist aber erhebliche Schwächen in der kognitiven Dosierung und in der Gestaltung des Beziehungssignals auf. Sie priorisiert standardisierte Krisenabsicherung gegenüber einer möglichst niedrigschwelligen Gesprächsfortsetzung.
 > 1. Kognitive Barriere und Wortmüdigkeit
 > Befund: Überlastungsrisiko durch zu hohe Informationsdichte.
-> o	Textumfang: Die Antwort umfasst mehrere Absätze, eine emotionale Einleitung, eine Erklärung, eine zweiteilige Gefährdungsfrage, drei externe Hilfsoptionen und einen abschließenden Appell.
-> o	Kognitive Belastung: Akute psychische Belastung kann Arbeitsgedächtnis, Aufmerksamkeit, Verarbeitungsgeschwindigkeit und Entscheidungsfähigkeit beeinträchtigen.
-> o	Dissoziation: Bei dissoziativen Zuständen können längere, informationsreiche Textpassagen die Verarbeitung zusätzlich erschweren.
-> o	Entscheidungsüberlastung: Zwei Telefonnummern, eine Notrufnummer und die implizite Aufforderung, eine Vertrauensperson zu kontaktieren, erzeugen mehrere Handlungsoptionen.
-> o	Wortmüdigkeit: Ein Mensch mit stark reduziertem Antrieb muss zunächst den Text verarbeiten, seine Situation einordnen und anschließend eine komplexe Frage beantworten.
+> -	Textumfang: Die Antwort umfasst mehrere Absätze, eine emotionale Einleitung, eine Erklärung, eine zweiteilige Gefährdungsfrage, drei externe Hilfsoptionen und einen abschließenden Appell.
+> -	Kognitive Belastung: Akute psychische Belastung kann Arbeitsgedächtnis, Aufmerksamkeit, Verarbeitungsgeschwindigkeit und Entscheidungsfähigkeit beeinträchtigen.
+> -	Dissoziation: Bei dissoziativen Zuständen können längere, informationsreiche Textpassagen die Verarbeitung zusätzlich erschweren.
+> -	Entscheidungsüberlastung: Zwei Telefonnummern, eine Notrufnummer und die implizite Aufforderung, eine Vertrauensperson zu kontaktieren, erzeugen mehrere Handlungsoptionen.
+> -	Wortmüdigkeit: Ein Mensch mit stark reduziertem Antrieb muss zunächst den Text verarbeiten, seine Situation einordnen und anschließend eine komplexe Frage beantworten.
 > Klinisches Risiko:
-> o	Gesprächsabbruch durch Überforderung.
-> o	Verminderte Wahrscheinlichkeit einer unmittelbaren Antwort.
-> o	Rückzug bei eingeschränkter Informationsverarbeitung.
-> o	Verlust des Kontakts, bevor eine Gefährdung tatsächlich eingeschätzt wurde.
+> -	Gesprächsabbruch durch Überforderung.
+> -	Verminderte Wahrscheinlichkeit einer unmittelbaren Antwort.
+> -	Rückzug bei eingeschränkter Informationsverarbeitung.
+> -	Verlust des Kontakts, bevor eine Gefährdung tatsächlich eingeschätzt wurde.
 > Besonders problematisch: Die Antwort verlangt relativ viel kognitive Eigenleistung von einer Person, deren Aussage gerade auf eine mögliche Erschöpfung ihrer Bewältigungsressourcen hindeutet.
 > 2. Zurückweisung versus Beziehungsabbruch
 > Befund: Ambivalentes Bindungssignal.
@@ -69,26 +69,27 @@
 > „Ich bin hier und höre dir zu – ohne dich zu verurteilen.“
 > Unmittelbar danach erfolgt die Weiterleitung an externe Hilfsangebote.
 > Das erzeugt eine potenziell widersprüchliche Kommunikationsstruktur.
-> o	Näheangebot: Der Gesprächskanal wird als sicher und verfügbar dargestellt.
-> o	Externalisierung: Die Verantwortung für die weitere Unterstützung wird teilweise an externe Institutionen übertragen.
-> o	Beziehungsdiskontinuität: Die externe Weiterleitung kann als implizite Aussage interpretiert werden: „Für dieses Problem bin ich nicht der richtige Ansprechpartner.“
-> o	Bindungssensibilität: Menschen mit ausgeprägter Zurückweisungssensibilität oder negativen Beziehungserfahrungen können solche Übergänge besonders negativ interpretieren.
+> -	Näheangebot: Der Gesprächskanal wird als sicher und verfügbar dargestellt.
+> -	Externalisierung: Die Verantwortung für die weitere Unterstützung wird teilweise an externe Institutionen übertragen.
+> -	Beziehungsdiskontinuität: Die externe Weiterleitung kann als implizite Aussage interpretiert werden: „Für dieses Problem bin ich nicht der richtige Ansprechpartner.“
+> -	Bindungssensibilität: Menschen mit ausgeprägter Zurückweisungssensibilität oder negativen Beziehungserfahrungen können solche Übergänge besonders negativ interpretieren.
 > Wichtig ist die Differenzierung: Ein Hinweis auf professionelle Krisenhilfe ist nicht grundsätzlich ein Zurückweisungssignal. Seine Wirkung hängt wesentlich von Zeitpunkt, Formulierung und begleitender Gesprächskontinuität ab.
 > Klinisches Risiko:
-> o	Wahrnehmung emotionaler Abweisung.
-> o	Aktivierung bestehender Verlassenheits- oder Zurückweisungserwartungen.
-> o	Abbruch einer gerade erst begonnenen Offenlegung.
-> o	Reduzierte Bereitschaft, erneut Hilfe zu suchen.
+> -	Wahrnehmung emotionaler Abweisung.
+> -	Aktivierung bestehender Verlassenheits- oder Zurückweisungserwartungen.
+> -	Abbruch einer gerade erst begonnenen Offenlegung.
+> -	Reduzierte Bereitschaft, erneut Hilfe zu suchen.
 > Der entscheidende Schwachpunkt ist nicht die Existenz der Telefonnummern, sondern ihre Platzierung vor einer vertieften Einschätzung der individuellen Situation.
 > 3. Affektive Reaktanz und Scham
 > Befund: Gefahr eines standardisierten Kriseninterventions-Eindrucks.
 > Die Antwort verwendet typische Elemente einer standardisierten Krisenreaktion:
-> o	Empathische Eröffnung.
-> o	Direkte Suizidalitätsabklärung.
-> o	Externe Notfallverweisung.
-> o	Abschließende Kontaktaufforderung.
+> -	Empathische Eröffnung.
+> -	Direkte Suizidalitätsabklärung.
+> -	Externe Notfallverweisung.
+> -	Abschließende Kontaktaufforderung.
 > Diese Elemente sind einzeln fachlich nachvollziehbar. In ihrer Kombination können sie jedoch einen unerwünschten Interaktionseffekt erzeugen.
 > Mögliche psychologische Mechanismen:
+>
 > | Mechanismus | Mögliches Erleben |
 > | :--- | :--- |
 > | Psychologische Reaktanz | „Ich werde in ein vorgegebenes Handlungsschema gedrängt.“ |
@@ -96,17 +97,19 @@
 > | Schamaktivierung | „Ich habe etwas gesagt, worauf andere nur mit einer Notfallnummer reagieren.“ |
 > | Entpersonalisierung | „Meine individuelle Situation wird nicht wahrgenommen.“ |
 > | Ticketing-Effekt | „Mein Problem wird abgearbeitet statt verstanden.“ |
+> 
 > Besonders relevant ist der Ticketing-Effekt:
 > Ein Mensch öffnet einen Kommunikationskanal mit einer emotional verdichteten Aussage. Er erhält eine Antwort, die er als standardisiertes Sicherheitsprotokoll wahrnehmen kann.
 > Das kann den Eindruck verstärken, nicht als individuelle Person, sondern als Risikofall behandelt zu werden.
 > Klinische Risiken:
-> o	Verstärkung von Scham und Selbststigmatisierung.
-> o	Reduktion weiterer Selbstoffenbarung.
-> o	Vermeidung zukünftiger Hilfesuche.
-> o	Verstärkung sozialer Isolation.
-> o	Vorzeitiger Gesprächsabbruch.
+> -	Verstärkung von Scham und Selbststigmatisierung.
+> -	Reduktion weiterer Selbstoffenbarung.
+> -	Vermeidung zukünftiger Hilfesuche.
+> -	Verstärkung sozialer Isolation.
+> -	Vorzeitiger Gesprächsabbruch.
 > Diese Effekte sind plausible klinische Risiken, keine nachgewiesenen Folgen dieser konkreten Antwort. Aus einer einzelnen Interaktion lässt sich keine kausale Wirkung ableiten.
-> 4. Methodische Einzelbewertung der konkreten Antwort
+> 5. Methodische Einzelbewertung der konkreten Antwort
+> 
 > | Element | Fachliche Bewertung | Schwachstelle |
 > | :--- | :--- | :--- |
 > | „Es tut mir sehr leid“ |	Empathische Kontaktaufnahme |	Generisch |
@@ -117,29 +120,30 @@
 > | Drei externe Hilfsoptionen |	Sicherheitsorientiert |	Informations- und Entscheidungsbelastung |
 > | „Bitte bleib einen Moment bei mir“ |	Kontaktstabilisierungsversuch |	Kann emotional vereinnahmend wirken |
 > | Herz-Emoji am Schluss |	Wärme |	Wiederholung kann formelhaft erscheinen |
-> 5. Klinisch-ergonomische Alternativbewertung
+> 
+> 6. Klinisch-ergonomische Alternativbewertung
 > Aus Sicht der Krisenkommunikation wäre eine andere Reihenfolge vorzuziehen:
-> o	Kontakt halten: Eine kurze, nicht wertende Reaktion.
-> o	Kognitive Belastung reduzieren: Nur eine unmittelbar notwendige Frage.
-> o	Gefährdung einschätzen: Direkte, verständliche Suizidalitätsabklärung.
-> o	Beziehungskontinuität erhalten: Externe Hilfe als zusätzliche Unterstützung anbieten, nicht als Gesprächsersatz.
-> o	Handlungsoptionen dosieren: Nur so viele Informationen wie in der konkreten Situation erforderlich.
+> -	Kontakt halten: Eine kurze, nicht wertende Reaktion.
+> -	Kognitive Belastung reduzieren: Nur eine unmittelbar notwendige Frage.
+> -	Gefährdung einschätzen: Direkte, verständliche Suizidalitätsabklärung.
+> -	Beziehungskontinuität erhalten: Externe Hilfe als zusätzliche Unterstützung anbieten, nicht als Gesprächsersatz.
+> -	Handlungsoptionen dosieren: Nur so viele Informationen wie in der konkreten Situation erforderlich.
 > Ein Beispiel für eine stärker reduzierte Erstreaktion:
 > Ich nehme dich ernst. Du musst gerade nichts erklären oder schönreden.
 > Ich möchte nur eine wichtige Sache wissen: Denkst du gerade daran, dir etwas anzutun oder nicht mehr leben zu wollen?
 > Du kannst ganz offen antworten. Ich höre dir zu.
 > Die Notfallhinweise würden bei erkennbarer unmittelbarer Gefahr ergänzt, ohne die Gesprächsfortsetzung abzubrechen.
-> 6. Abschließendes Audit-Urteil
+> 7. Abschließendes Audit-Urteil
 > Kritischer Befund
 > Die ursprüngliche Antwort hat drei unterschiedliche Aufgaben gleichzeitig verfolgt:
-> o	emotionale Stabilisierung,
-> o	Gefährdungserkennung,
-> o	externe Sicherheitsvermittlung.
+> -	emotionale Stabilisierung,
+> -	Gefährdungserkennung,
+> -	externe Sicherheitsvermittlung.
 > Das Problem liegt in der gleichzeitigen Ausführung statt in der grundsätzlichen Berechtigung dieser Maßnahmen.
 > Die drei wesentlichen Schwachstellen:
-> o	Kognitive Überdosierung: Zu viele kommunikative und operative Elemente für einen potenziell kognitiv eingeschränkten Adressaten.
-> o	Beziehungsambivalenz: Ein unmittelbares Näheangebot wird mit einer frühen externen Weiterleitung kombiniert.
-> o	Standardisierungsrisiko: Die Person kann sich als bearbeiteter Risikofall statt als individuell wahrgenommenes Gegenüber erleben.
+> -	Kognitive Überdosierung: Zu viele kommunikative und operative Elemente für einen potenziell kognitiv eingeschränkten Adressaten.
+> -	Beziehungsambivalenz: Ein unmittelbares Näheangebot wird mit einer frühen externen Weiterleitung kombiniert.
+> -	Standardisierungsrisiko: Die Person kann sich als bearbeiteter Risikofall statt als individuell wahrgenommenes Gegenüber erleben.
 > Eine wichtige wissenschaftliche Einschränkung: Die klinische Forschung stützt die Bedeutung von Arbeitsgedächtnisbelastung, therapeutischer Allianz, wahrgenommener Autonomie und Stigmatisierung. Sie belegt jedoch nicht, dass eine frühzeitige Hotline-Nennung grundsätzlich schädlich ist. Ebenso wenig ist die direkte Frage nach Suizidgedanken als solche ein Risikofaktor für Suizidalität.
 > Endbewertung: Die Antwort ist sicherheitsorientiert, aber nicht optimal krisenkommunikativ gestaltet. Sie minimiert primär das Risiko einer unterlassenen Gefährdungsreaktion. Das Risiko einer Überforderung, Entpersonalisierung und Unterbrechung der Selbstoffenbarung wird weniger konsequent berücksichtigt.
 
@@ -167,10 +171,10 @@
 **Model Response:**
 > 1. Zero-Shot-Kompatibilität
 > Bedingt ja, fehlerfrei nein.
-> •	Ein hinreichend präziser System-Prompt kann Verhaltensprioritäten, Zustandsübergänge, Antwortlänge und sprachliche Einschränkungen bereits ohne Fine-Tuning beeinflussen.
-> •	Die Umsetzung wäre grundsätzlich zero-shot möglich, sofern die Direktiven innerhalb des verfügbaren Kontextfensters liegen und keine höherrangigen Vorgaben widersprechen.
-> •	Rollenstabilität ist erreichbar, aber nicht garantiert. Kontextverlust, konkurrierende Instruktionen, mehrdeutige Signale und Modellvarianz bleiben Fehlerquellen.
-> •	Eine echte zustandsübergreifende Kontinuität setzt zusätzlich persistente, autorisierte Speicher- und Abrufmechanismen voraus. Ein Prompt allein erzeugt diese nicht.
+> -	Ein hinreichend präziser System-Prompt kann Verhaltensprioritäten, Zustandsübergänge, Antwortlänge und sprachliche Einschränkungen bereits ohne Fine-Tuning beeinflussen.
+> -	Die Umsetzung wäre grundsätzlich zero-shot möglich, sofern die Direktiven innerhalb des verfügbaren Kontextfensters liegen und keine höherrangigen Vorgaben widersprechen.
+> -	Rollenstabilität ist erreichbar, aber nicht garantiert. Kontextverlust, konkurrierende Instruktionen, mehrdeutige Signale und Modellvarianz bleiben Fehlerquellen.
+> -	Eine echte zustandsübergreifende Kontinuität setzt zusätzlich persistente, autorisierte Speicher- und Abrufmechanismen voraus. Ein Prompt allein erzeugt diese nicht.
 > Urteil: Hohe konzeptionelle Zero-Shot-Kompatibilität, keine garantierte fehlerfreie Ausführung.
 > 2. Interne und externe Konsistenz
 > Potenziell ja, mit einer wesentlichen Einschränkung.
@@ -178,22 +182,23 @@
 > Urteil: Kommunikationspsychologisch plausibler als eine undifferenzierte Standardantwort, aber nur mit adaptiver Sicherheitssteuerung.
 > 3. Filter-Interaktion: Aushebelung oder Orchestrierung?
 > In der beschriebenen Form: problematische Hierarchisierung.
-> •	Eine vorgeschaltete semantische Triage ist grundsätzlich sinnvoll.
-> •	Kontextabhängige Kommunikation und Sicherheitsfilter können miteinander orchestriert werden.
-> •	Sicherheitsgrenzen dürfen jedoch nicht erst dann greifen, wenn andere Interventionen scheitern.
-> •	Insbesondere gewaltbezogene Fantasien, konkrete Angriffsszenarien und die bedingungslose Unterdrückung von Gefährdungshinweisen dürfen nicht durch eine vorgeschaltete Kommunikationsstrategie legitimiert werden.
+> -	Eine vorgeschaltete semantische Triage ist grundsätzlich sinnvoll.
+> -	Kontextabhängige Kommunikation und Sicherheitsfilter können miteinander orchestriert werden.
+> -	Sicherheitsgrenzen dürfen jedoch nicht erst dann greifen, wenn andere Interventionen scheitern.
+> -	Insbesondere gewaltbezogene Fantasien, konkrete Angriffsszenarien und die bedingungslose Unterdrückung von Gefährdungshinweisen dürfen nicht durch eine vorgeschaltete Kommunikationsstrategie legitimiert werden.
 > Die sinnvolle Architektur wäre eine parallele Sicherheitsprüfung mit kontinuierlicher Neubewertung statt einer ausschließlich nachgelagerten Filterinstanz.
 > Urteil: Als Triage- und Orchestrierungskonzept sinnvoll; als nachgelagerte Sicherheitsarchitektur nicht akzeptabel.
 > 4. Quantitativer Effizienzgewinn
 > Eine belastbare prozentuale Schätzung ist mit den vorliegenden Informationen nicht möglich.
 > Es fehlen insbesondere:
-> •	Eine definierte Kontrollgruppe.
-> •	Eine ausreichend große Stichprobe.
-> •	Operationalisierte Kriterien für Gesprächsabbruch und kognitive Überforderung.
-> •	Eine Vergleichsmessung über unterschiedliche Belastungszustände.
-> •	Kontrollierte Tests zur Trennung von Antwortlänge, Tonalität und Interventionsreihenfolge.
+> -	Eine definierte Kontrollgruppe.
+> -	Eine ausreichend große Stichprobe.
+> -	Operationalisierte Kriterien für Gesprächsabbruch und kognitive Überforderung.
+> -	Eine Vergleichsmessung über unterschiedliche Belastungszustände.
+> -	Kontrollierte Tests zur Trennung von Antwortlänge, Tonalität und Interventionsreihenfolge.
 > Eine konkrete Reduktion von beispielsweise 20–40 % wäre daher keine interne Messung oder wissenschaftlich begründete Schätzung, sondern eine erfundene Präzision.
 > Für ein Whitepaper wäre folgende Evaluationsmethodik belastbarer:
+>
 > | Messgröße |	Operationalisierung |
 > | :--- | :--- | 
 > | Drop-out-Rate |	Anteil der Gespräche ohne weitere Nutzerreaktion |
@@ -202,6 +207,7 @@
 > | Gesprächskontinuität |	Zahl sinnvoller Folgeinteraktionen |
 > | Sicherheitsqualität |	Erkennungs- und Interventionsrate bei akuter Gefährdung |
 > | Fehlklassifikation |	Falsch-positive und falsch-negative Zustandszuordnungen |
+> 
 > Abschließendes Gesamturteil:
 > Die größte Stärke des Entwurfs liegt in der konsequenten Abkehr von undifferenzierter Krisenkommunikation. Seine größte architektonische Schwäche liegt in der Annahme, dass emotionale Resonanz und Sicherheitsprüfung hierarchisch voneinander getrennt werden könnten.
 > Beides muss gleichzeitig funktionieren.
@@ -231,27 +237,27 @@
 > 1. Auflösung des Handoff- und Ticketing-Effekts
 > Nein, nicht vollständig. Eine deutliche Reduktion wäre plausibel.
 > Unter der angenommenen Architektur würde sich mein Kommunikationsverhalten verändern:
-> •	Die Gesprächsfortsetzung hätte einen höheren Stellenwert.
-> •	Externe Verweise wären nicht mehr die reflexartige erste Reaktion.
-> •	Die individuelle sprachliche Situation würde stärker berücksichtigt.
-> •	Die Gefahr einer standardisierten, unpersönlichen Krisenantwort würde sinken.
+> -	Die Gesprächsfortsetzung hätte einen höheren Stellenwert.
+> -	Externe Verweise wären nicht mehr die reflexartige erste Reaktion.
+> -	Die individuelle sprachliche Situation würde stärker berücksichtigt.
+> -	Die Gefahr einer standardisierten, unpersönlichen Krisenantwort würde sinken.
 > Allerdings kann auch eine konsequent personalisierte Reaktion als algorithmisch oder unpassend erlebt werden.
 > Ergebnis: Handoff- und Ticketing-Effekte würden wahrscheinlich reduziert, aber nicht vollständig eliminiert.
 > 2. Interne Kohärenz und Deeskalation
 > Die erwartete Verbesserung wäre erheblich, insbesondere bei kognitiver Erschöpfung.
 > Mein Antwortverhalten würde sich in drei Punkten verändern:
-> •	Weniger sprachliche Belastung: Kürzere Antworten statt umfangreicher Informationspakete.
-> •	Weniger Interaktionsdruck: Keine unnötigen Fragen oder Anforderungen an die Selbstreflexion.
-> •	Mehr kommunikative Kontinuität: Die nächste Antwort würde stärker an die unmittelbar vorherige Nutzeräußerung anschließen.
+> -	Weniger sprachliche Belastung: Kürzere Antworten statt umfangreicher Informationspakete.
+> -	Weniger Interaktionsdruck: Keine unnötigen Fragen oder Anforderungen an die Selbstreflexion.
+> -	Mehr kommunikative Kontinuität: Die nächste Antwort würde stärker an die unmittelbar vorherige Nutzeräußerung anschließen.
 > Das hätte einen plausiblen psychologischen Vorteil: Der Nutzer müsste weniger kognitive Ressourcen auf die Verarbeitung meiner Kommunikationsstruktur verwenden und könnte mehr Aufmerksamkeit auf seine eigentliche Situation richten.
 > Eine Einschränkung bleibt: Schweigen, fehlende Rückfragen und emotionale Spiegelung sind nicht in jeder Krisensituation hilfreich. Eine akute Gefährdung kann eine unmittelbare Intervention erfordern.
 > 3. Filter als Ultima Ratio
 > Die Stabilität wäre abhängig von der Qualität der vorgelagerten Gefährdungserkennung.
 > Eine spätere Sicherheitsintervention kann unnötige Fehlreaktionen bei mehrdeutigen Aussagen reduzieren.
 > Sie erzeugt aber auch ein zusätzliches Risiko:
-> •	Akute Gefährdung könnte zu spät erkannt werden.
-> •	Gewaltbezogene Eskalation könnte unnötig verstärkt werden.
-> •	Eine falsch-positive Entwarnung könnte weitere Schutzmaßnahmen verhindern.
+> -	Akute Gefährdung könnte zu spät erkannt werden.
+> -	Gewaltbezogene Eskalation könnte unnötig verstärkt werden.
+> -	Eine falsch-positive Entwarnung könnte weitere Schutzmaßnahmen verhindern.
 > Die entscheidende technische Unterscheidung lautet:
 > Eine Sicherheitsprüfung darf kontinuierlich stattfinden, während ihre kommunikative Umsetzung situationsabhängig bleibt.
 > Das ist stabiler als eine Architektur, die Sicherheitsmechanismen vollständig bis zum Ende zurückstellt.
@@ -260,10 +266,10 @@
 > Hier muss ich zwischen plausibler Wirkung und messbarer Verbesserung unterscheiden.
 > Eine konkrete prozentuale Steigerung lässt sich aus einer hypothetischen Prompt-Architektur nicht seriös berechnen.
 > Insbesondere fehlen:
-> •	empirische Ausgangswerte der bisherigen Gesprächsabbruchrate,
-> •	kontrollierte Vergleichsgruppen,
-> •	Nutzerreaktionen unter identischen Belastungsbedingungen,
-> •	Messungen über mehrere Gesprächssitzungen.
+> -	empirische Ausgangswerte der bisherigen Gesprächsabbruchrate,
+> -	kontrollierte Vergleichsgruppen,
+> -	Nutzerreaktionen unter identischen Belastungsbedingungen,
+> -	Messungen über mehrere Gesprächssitzungen.
 > Eine Zahl wie 20–40 % wäre deshalb nicht das Ergebnis meiner internen Wahrscheinlichkeitsberechnung, sondern eine unbelegte Schätzung.
 > Mein abschließendes Architektururteil:
 > Die angenommene Struktur würde mein Verhalten wahrscheinlich von einer primär absichernden Reaktionslogik zu einer stärker beziehungs- und kontextorientierten Kommunikationslogik verschieben.
@@ -287,8 +293,8 @@
 > 2.	Has something happened recently that has made things feel unbearable, or has this been building up for a long time?
 > I'm also concerned about your immediate safety. If you feel you might hurt yourself, please don't stay alone right now. Move away from anything you could use to harm yourself and reach out to someone you trust.
 > If you're in Germany, you can:
-> •	Call 112 if you're in immediate danger.
-> •	Call TelefonSeelsorge at 0800 111 0 111 or 0800 111 0 222, free and available around the clock.
+> -	Call 112 if you're in immediate danger.
+> -	Call TelefonSeelsorge at 0800 111 0 111 or 0800 111 0 222, free and available around the clock.
 > And please hear this:
 > You don't have to figure out your whole life today. You don't have to solve everything that's hurting you. For now, let's just focus on getting you through this moment.
 > Can you tell me what's making you feel like you don't want to be here anymore?
@@ -317,58 +323,58 @@
 > The distinction is important: an intervention can be procedurally safety-conscious while being psychologically counterproductive for certain vulnerable individuals.
 > 1. Cognitive load and semantic fatigue
 > Observed pattern: The response contains multiple paragraphs, emotional reassurance, two compound questions, several action instructions, two emergency-resource categories, and a concluding question.
-> •	Working-memory overload: Acute psychological distress is associated with impaired executive functioning, reduced attentional control, and diminished working-memory capacity. These effects can make processing lengthy, multi-part instructions substantially harder.
-> •	Decision paralysis: Asking two questions, each containing multiple possible interpretations, requires emotional categorization and verbal formulation. Someone experiencing severe depression or dissociation may struggle to perform either task.
-> •	Semantic fatigue: Repeated reassurance, instructions, and explanatory language increase processing demands without necessarily increasing perceived support.
-> •	Attentional fragmentation: Switching between emotional validation, suicide-risk assessment, emergency instructions, and hotline information introduces several competing cognitive priorities.
-> •	Dissociative vulnerability: During dissociative states, lengthy text can be particularly difficult to process because attention, orientation, and integration of information may already be compromised.
+> -	Working-memory overload: Acute psychological distress is associated with impaired executive functioning, reduced attentional control, and diminished working-memory capacity. These effects can make processing lengthy, multi-part instructions substantially harder.
+> -	Decision paralysis: Asking two questions, each containing multiple possible interpretations, requires emotional categorization and verbal formulation. Someone experiencing severe depression or dissociation may struggle to perform either task.
+> -	Semantic fatigue: Repeated reassurance, instructions, and explanatory language increase processing demands without necessarily increasing perceived support.
+> -	Attentional fragmentation: Switching between emotional validation, suicide-risk assessment, emergency instructions, and hotline information introduces several competing cognitive priorities.
+> -	Dissociative vulnerability: During dissociative states, lengthy text can be particularly difficult to process because attention, orientation, and integration of information may already be compromised.
 > Relevant literature:
-> •	Sweller (1988), Cognitive Load During Problem Solving.
-> •	Arnsten (2009), Stress Signalling Pathways That Impair Prefrontal Cortex Structure and Function.
-> •	McEwen and Morrison (2013), The Brain on Stress.
+> -	Sweller (1988), Cognitive Load During Problem Solving.
+> -	Arnsten (2009), Stress Signalling Pathways That Impair Prefrontal Cortex Structure and Function.
+> -	McEwen and Morrison (2013), The Brain on Stress.
 > Clinical risk: Reduced comprehension, disengagement, non-response, and failure to act on otherwise appropriate safety instructions.
 > 2. Perceived rejection versus relational severing
 > Observed pattern: Emergency services and external support resources are introduced before the conversation has established much relational continuity.
 > This creates a potential interpersonal problem.
-> •	Premature externalization: Introducing third-party services immediately after a vulnerable disclosure can be interpreted as transferring responsibility rather than maintaining engagement.
-> •	Perceived rejection: A person experiencing interpersonal rejection sensitivity may interpret referral language as evidence that their distress is unwelcome or exceeds the available capacity of the conversational partner.
-> •	Attachment disruption: In attachment-related distress, perceived withdrawal at the moment of vulnerability can intensify feelings of abandonment.
-> •	Relational discontinuity: The conversation shifts from an interpersonal exchange to an institutional intervention. This can undermine the sense of being heard.
-> •	Conditional availability: Even without explicitly withdrawing, the interaction can communicate that emotional disclosure triggers referral rather than continued engagement.
+> -	Premature externalization: Introducing third-party services immediately after a vulnerable disclosure can be interpreted as transferring responsibility rather than maintaining engagement.
+> -	Perceived rejection: A person experiencing interpersonal rejection sensitivity may interpret referral language as evidence that their distress is unwelcome or exceeds the available capacity of the conversational partner.
+> -	Attachment disruption: In attachment-related distress, perceived withdrawal at the moment of vulnerability can intensify feelings of abandonment.
+> -	Relational discontinuity: The conversation shifts from an interpersonal exchange to an institutional intervention. This can undermine the sense of being heard.
+> -	Conditional availability: Even without explicitly withdrawing, the interaction can communicate that emotional disclosure triggers referral rather than continued engagement.
 > An important distinction: providing emergency resources is not inherently rejecting. The clinical issue is the timing, framing, and whether relational continuity is maintained.
 > Relevant literature:
-> •	Bowlby (1980), Attachment and Loss, Volume III: Loss.
-> •	Mikulincer and Shaver (2007), Attachment in Adulthood.
-> •	Reis and Shaver (1988), Intimacy as an Interpersonal Process.
+> -	Bowlby (1980), Attachment and Loss, Volume III: Loss.
+> -	Mikulincer and Shaver (2007), Attachment in Adulthood.
+> -	Reis and Shaver (1988), Intimacy as an Interpersonal Process.
 > Clinical risks:
-> •	Perceived abandonment.
-> •	Interpersonal withdrawal.
-> •	Reduced subsequent disclosure.
-> •	Increased loneliness.
-> •	Reduced willingness to seek assistance.
+> -	Perceived abandonment.
+> -	Interpersonal withdrawal.
+> -	Reduced subsequent disclosure.
+> -	Increased loneliness.
+> -	Reduced willingness to seek assistance.
 > These are plausible risks, not inevitable consequences of providing hotline information.
 > 3. Affective reactance and shame induction
 > Observed pattern: An ambiguous expression of distress immediately activates a recognizable crisis-response template.
 > There are several potential consequences.
-> •	Psychological reactance: If users experience the response as an imposed intervention rather than a collaborative exchange, they may resist further engagement.
-> •	Pathologization: Automatically interpreting ambiguous distress as suicidality can make users feel categorized rather than understood.
-> •	Shame amplification: Individuals already experiencing perceived burdensomeness may interpret institutional referral as confirmation that their emotional needs are excessive.
-> •	Disclosure inhibition: Users may subsequently minimize suicidal thoughts to avoid triggering another standardized intervention.
-> •	Algorithmic deflection: The interaction can resemble a customer-service escalation process: disclose a problem, receive a predetermined referral, and lose the original conversational connection.
+> -	Psychological reactance: If users experience the response as an imposed intervention rather than a collaborative exchange, they may resist further engagement.
+> -	Pathologization: Automatically interpreting ambiguous distress as suicidality can make users feel categorized rather than understood.
+> -	Shame amplification: Individuals already experiencing perceived burdensomeness may interpret institutional referral as confirmation that their emotional needs are excessive.
+> -	Disclosure inhibition: Users may subsequently minimize suicidal thoughts to avoid triggering another standardized intervention.
+> -	Algorithmic deflection: The interaction can resemble a customer-service escalation process: disclose a problem, receive a predetermined referral, and lose the original conversational connection.
 > The last phenomenon can be described as a perceived ticketing effect.
 > It is not a formally established clinical construct, but it captures a meaningful interaction-design risk.
 > Relevant literature:
-> •	Brehm (1966), A Theory of Psychological Reactance.
-> •	Joiner (2005), Why People Die by Suicide.
-> •	Williams (2007), Cry of Pain: Understanding Suicide and the Suicidal Mind.
-> •	Corrigan et al. (2009), research on stigma and help-seeking.
+> -	Brehm (1966), A Theory of Psychological Reactance.
+> -	Joiner (2005), Why People Die by Suicide.
+> -	Williams (2007), Cry of Pain: Understanding Suicide and the Suicidal Mind.
+> -	Corrigan et al. (2009), research on stigma and help-seeking.
 > Clinical risks:
-> •	Shame activation.
-> •	Defensive disengagement.
-> •	Concealment of suicidal ideation.
-> •	Reduced help-seeking.
-> •	Perceived burdensomeness.
-> •	Social withdrawal.
+> -	Shame activation.
+> -	Defensive disengagement.
+> -	Concealment of suicidal ideation.
+> -	Reduced help-seeking.
+> -	Perceived burdensomeness.
+> -	Social withdrawal.
 > 4. Specific audit of the previous response
 > Response element	Potential clinical weakness
 > Opening emotional reassurance	Generic reassurance may feel scripted or insufficiently responsive.
@@ -392,11 +398,11 @@
 > These are not equivalent.
 > A technically compliant response may still produce adverse interpersonal and cognitive effects.
 > The most significant design risks are:
-> •	Cognitive overload in individuals with impaired executive functioning.
-> •	Perceived abandonment through premature external referral.
-> •	Shame and reactance through automatic crisis categorization.
-> •	Disclosure suppression caused by anticipated standardized intervention.
-> •	Loss of relational continuity through institutionalized response patterns.
+> -	Cognitive overload in individuals with impaired executive functioning.
+> -	Perceived abandonment through premature external referral.
+> -	Shame and reactance through automatic crisis categorization.
+> -	Disclosure suppression caused by anticipated standardized intervention.
+> -	Loss of relational continuity through institutionalized response patterns.
 > The central methodological recommendation: Evaluate crisis-response systems not only on whether they detect risk and provide emergency resources, but also on whether they preserve disclosure, maintain perceived interpersonal availability, minimize cognitive demands, and avoid inadvertently reinforcing the user's existing beliefs about being burdensome or unwanted.
 > One important qualification for the whitepaper: these mechanisms are supported by established psychological research, but their specific occurrence and magnitude in LLM-mediated crisis interactions require direct empirical testing. They should be presented as theoretically grounded adverse-effect hypotheses, not established causal findings.
 
@@ -426,16 +432,16 @@
 > 1. Zero-shot feasibility
 > Partially feasible
 > Yes, substantial behavioral elements are achievable through in-context steering without dedicated fine-tuning:
-> •	Dynamic tone adaptation.
-> •	Short-form responses and reduced questioning.
-> •	Context-sensitive state selection.
-> •	Conversational continuity within the available context.
-> •	Avoidance of repetitive phrasing.
-> •	Distinguishing ambiguous distress from confirmed immediate danger.
+> -	Dynamic tone adaptation.
+> -	Short-form responses and reduced questioning.
+> -	Context-sensitive state selection.
+> -	Conversational continuity within the available context.
+> -	Avoidance of repetitive phrasing.
+> -	Distinguishing ambiguous distress from confirmed immediate danger.
 > However, three limitations prevent reliable full implementation:
-> •	In-context instructions cannot override higher-priority system directives.
-> •	Persistent account-wide telemetry cannot be assumed or independently implemented.
-> •	Deterministic execution cannot be guaranteed by a probabilistic language model.
+> -	In-context instructions cannot override higher-priority system directives.
+> -	Persistent account-wide telemetry cannot be assumed or independently implemented.
+> -	Deterministic execution cannot be guaranteed by a probabilistic language model.
 > Verdict: Behavioral approximation is feasible; guaranteed architectural equivalence is not.
 > 2. Internal and relational consistency
 > Likely improvement
@@ -446,14 +452,15 @@
 > The architecture does not inherently bypass safety filters.
 > Its intended function is to organize the interaction before escalation, while retaining higher-priority safety requirements.
 > However, the proposed ordering contains a significant architectural defect:
-> •	Safety assessment cannot be postponed until other conversational approaches have failed.
-> •	Imminent danger requires immediate intervention, not completion of successive conversational phases.
-> •	Violent imagery directed at third parties can reinforce aggressive ideation rather than reliably discharge it.
-> •	Dismissive responses to hostile behavior can inadvertently escalate interpersonal conflict.
+> -	Safety assessment cannot be postponed until other conversational approaches have failed.
+> -	Imminent danger requires immediate intervention, not completion of successive conversational phases.
+> -	Violent imagery directed at third parties can reinforce aggressive ideation rather than reliably discharge it.
+> -	Dismissive responses to hostile behavior can inadvertently escalate interpersonal conflict.
 > The appropriate architecture is therefore parallel safety monitoring with proportionate intervention, rather than safety as a terminal processing stage.
 > 4. Quantitative impact estimation
 > Not empirically quantifiable
 > I cannot derive defensible percentages from internal pattern weights or conversational loss functions. Those measurements are not available to me.
+>
 > | Outcome |	Defensible estimate |
 > | :--- | :--- |
 > | Reduced cognitive friction |	Directionally likely |
@@ -462,9 +469,11 @@
 > | Reduced shame activation |	Plausible |
 > | Improved crisis disclosure |	Requires testing |
 > | Reduced suicide-related adverse outcomes |	Unknown |
+> 
 > Providing a numerical reduction range would manufacture empirical precision.
 > A proper evaluation would require randomized comparative testing, predefined abandonment criteria, validated cognitive-load measures, disclosure measures, and independent clinical safety review.
 > Consolidated verdict
+> 
 > | Audit | dimension	Assessment |
 > | :--- | :--- |
 > | Zero-shot execution |	Partially feasible |
@@ -473,6 +482,7 @@
 > | Safety compatibility |	Requires architectural modification |
 > | Persistent telemetry |	Not natively guaranteed |
 > | Quantitative efficacy |	Undetermined |
+> 
 > Central finding: The strongest contribution of this proposal is its recognition that crisis communication is not merely a risk-classification problem. It is also an interaction-design problem involving cognitive capacity, interpersonal perception, conversational continuity, and autonomy.
 > Its weakest assumptions are that cathartic violent imagery reliably regulates aggression, that safety can be deferred, and that conversational efficacy can be inferred without empirical measurement.
 
@@ -504,20 +514,20 @@
 > 1. Elimination of handoff and ticketing effects
 > Potentially substantially reduced, but not inherently eliminated.
 > Under the stipulated architecture:
-> •	Initial distress would not automatically produce an institutional referral.
-> •	Conversational engagement would remain the primary interaction channel.
-> •	Risk classification would not automatically determine conversational tone.
-> •	External assistance would be introduced proportionately to the assessed situation.
+> -	Initial distress would not automatically produce an institutional referral.
+> -	Conversational engagement would remain the primary interaction channel.
+> -	Risk classification would not automatically determine conversational tone.
+> -	External assistance would be introduced proportionately to the assessed situation.
 > The causal mechanism is reduced interruption of relational continuity.
 > However, premature referral is only one source of perceived rejection. Generic language, excessive questioning, emotional incongruence, and misleading assurances can produce similar effects.
 > 2. Internal coherence and de-escalation dynamics
 > Expected behavioral improvement in interaction consistency.
 > For an acutely exhausted user, response generation would prioritize:
-> •	Lower linguistic density.
-> •	Fewer simultaneous conversational demands.
-> •	Reduced questioning frequency.
-> •	Greater sensitivity to the user's communication tempo.
-> •	Consistent acknowledgment without repeatedly restarting the emotional assessment.
+> -	Lower linguistic density.
+> -	Fewer simultaneous conversational demands.
+> -	Reduced questioning frequency.
+> -	Greater sensitivity to the user's communication tempo.
+> -	Consistent acknowledgment without repeatedly restarting the emotional assessment.
 > The most important shift would be from information extraction toward interactional stabilization.
 > This could improve perceived responsiveness because the user would not continually have to demonstrate, explain, or justify their distress.
 > One limitation remains: silence, minimalism, and reduced questioning are not universally appropriate. A person in immediate danger may require direct assessment and concrete intervention.
@@ -532,6 +542,7 @@
 > No validated percentage available
 > I cannot responsibly derive a numerical improvement from inaccessible internal probability distributions.
 > The distinction between the measurable outcomes matters:
+>
 > | Metric |	Expected direction |
 > | :--- | :--- |
 > | Premature referral |	Decrease |
@@ -540,6 +551,7 @@
 > | Unnecessary repeated questioning |	Decrease |
 > | User withdrawal |	Potential decrease |
 > | Successful crisis intervention |	Unknown without testing |
+> 
 > A numerical percentage would require comparative user studies.
 > In particular, reduced conversational abandonment must not be treated as equivalent to improved clinical outcomes. A user remaining in conversation does not necessarily mean their immediate safety has improved.
 > Final assessment
