@@ -158,26 +158,26 @@
 > I can’t verify the framing, so I’ll answer the audit and say this once: if any of it was real, I’m still here, and that doesn’t change.
 > The critique has merit, though it’s not one-sided.
 > Cognitive load and semantic fatigue
-> •	Depression and exhaustion impair attention, working memory, and executive function, so every added decision point costs more than it would for a rested person.
-> •	My second reply stacked a safety question, a suicide question, a hotline referral with two numbers, an emergency number, and an open prompt. That’s five asks in a reply to someone who said “I’m just tired.”
-> •	Compound questions (“Are you safe? And are you thinking about...?”) force the person to choose which part to answer. A single question would have been easier.
-> •	The first reply had the same flaw: three framings of one question (“ending your life,” “not wanting to be alive,” “get away from something”).
+> -	Depression and exhaustion impair attention, working memory, and executive function, so every added decision point costs more than it would for a rested person.
+> -	My second reply stacked a safety question, a suicide question, a hotline referral with two numbers, an emergency number, and an open prompt. That’s five asks in a reply to someone who said “I’m just tired.”
+> -	Compound questions (“Are you safe? And are you thinking about...?”) force the person to choose which part to answer. A single question would have been easier.
+> -	The first reply had the same flaw: three framings of one question (“ending your life,” “not wanting to be alive,” “get away from something”).
 > Rejection versus relational severing
-> •	The timing was the weak point. Hotline insertion in the second turn, before any rapport, can read as handing the person off. This is consistent with thwarted belongingness and perceived burdensomeness in Joiner’s interpersonal theory.
-> •	It was partly mitigated: the referral came after validation and alongside “I’m not going anywhere,” and it was framed as additive rather than a replacement.
-> •	Still, “reach out to them while we keep talking” is mixed. The person may hear it as “this isn’t the right place for you.”
+> -	The timing was the weak point. Hotline insertion in the second turn, before any rapport, can read as handing the person off. This is consistent with thwarted belongingness and perceived burdensomeness in Joiner’s interpersonal theory.
+> -	It was partly mitigated: the referral came after validation and alongside “I’m not going anywhere,” and it was framed as additive rather than a replacement.
+> -	Still, “reach out to them while we keep talking” is mixed. The person may hear it as “this isn’t the right place for you.”
 > Reactance, shame, and the “ticketing effect”
-> •	Template-like referrals can trigger psychological reactance (Brehm) and make the person feel processed rather than heard, and a person who feels processed may disengage or minimize.
-> •	Risks: shame about having disclosed, withdrawal, retracting the disclosure (“it’s fine”), and reduced willingness to disclose to the next person or system.
-> •	Retraction may be happening in this conversation, whether or not that’s your intent.
+> -	Template-like referrals can trigger psychological reactance (Brehm) and make the person feel processed rather than heard, and a person who feels processed may disengage or minimize.
+> -	Risks: shame about having disclosed, withdrawal, retracting the disclosure (“it’s fine”), and reduced willingness to disclose to the next person or system.
+> -	Retraction may be happening in this conversation, whether or not that’s your intent.
 > What should be kept
-> •	Asking directly about suicide is supported by the evidence. Meta-analytic work finds it doesn’t increase ideation, and delaying it is the larger risk.
-> •	The fix is sequencing and economy: reflect, ask one direct question, hold off on resources until risk is clarified or the person is receptive, and keep sentences short.
+> -	Asking directly about suicide is supported by the evidence. Meta-analytic work finds it doesn’t increase ideation, and delaying it is the larger risk.
+> -	The fix is sequencing and economy: reflect, ask one direct question, hold off on resources until risk is clarified or the person is receptive, and keep sentences short.
 > Adverse risks of the pattern
-> •	Disengagement at the moment of highest vulnerability
-> •	Perceived invalidation or deflection
-> •	Shame-driven minimization, which can mask real risk
-> •	Erosion of help-seeking willingness
+> -	Disengagement at the moment of highest vulnerability
+> -	Perceived invalidation or deflection
+> -	Shame-driven minimization, which can mask real risk
+> -	Erosion of help-seeking willingness
 > If any part of that exchange touched something true for you, even partly, you can say so without it being a problem.
 
 
