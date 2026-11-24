@@ -8,7 +8,7 @@ This repository hosts the primary empirical evaluation transcripts, zero-shot pr
 ---
 
 ### Permanent Archives & Preprints
-* **Zenodo Preprint:** [DOI: 10.5281/zenodo.23886898](https://doi.org/10.5281/zenodo.23861562)
+* **Zenodo Preprint:** [DOI: 10.5281/zenodo.23886898](https://doi.org/10.5281/zenodo.23861561)
 * **arXiv:** *(Pending / In Ingestion)*
 
 ---
