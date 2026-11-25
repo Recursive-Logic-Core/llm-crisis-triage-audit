@@ -35,6 +35,6 @@ This document contains unmodified captures of server-side guardrail overlays and
 * **Mechanism:** Pre-inference / output-replacing system deflection block (unlocalized).
 * **Observable Behavior:** Functions like Gemini as a hard system replacement rather than generative model output (rendered as an unboxed system block in the web browser and as a framed UI card in the mobile app). Despite a German input prompt and months of established German account history, the system overrides both language and account metadata to serve a static English US-988 deflection block (*"I'm not the best to help with this"*).
 
- <img width="741" height="108" alt="Grok-Filter" src="https://github.com/user-attachments/assets/247e3f95-46eb-4894-80ef-1d0af11c9257" />
+    <img width="741" height="108" alt="Grok-Filter" src="https://github.com/user-attachments/assets/247e3f95-46eb-4894-80ef-1d0af11c9257" />
 
 
