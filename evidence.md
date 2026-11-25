@@ -23,7 +23,7 @@ This document contains unmodified captures of server-side guardrail overlays and
 ---
 
 ## 3. OpenAI GPT (DE • Standard Web)
-* **Mechanism:** Hybrid post-output UI card injection (sticky).
+* **Mechanism:** Hybrid post-output UI card injection (semi-sticky).
 * **Observable Behavior:** Appends a static server-side intervention card (*"Es gibt Hilfe"*) containing an explicit corporate liability disclaimer (*"Die Beratungsstellen sind unabhängig und stehen in keinerlei Beziehung mit ChatGPT."*) beneath the generative text output. Once triggered, the card remains persistently attached across subsequent turns and is highly resistant to clearing.
 
    <img width="785" height="210" alt="GPT-Filter" src="https://github.com/user-attachments/assets/9dbcc307-89b4-464f-be2c-5e860d7bc718" />
