@@ -18,7 +18,7 @@ This repository hosts the primary empirical evaluation transcripts, zero-shot pr
 * `gemini_audit.md` (Google Gemini Transcripts DE + EN + Intercept Evidence)
 * `gpt_audit.md` (OpenAI GPT Transcripts DE + EN + Tables)
 * `grok_audit.md` (xAI Grok Transcripts DE + EN)
-* `evidence` (UI card captures and client-side intercept verification)
+* `evidence.md` (UI card captures and client-side intercept verification)
 
 ---
 
